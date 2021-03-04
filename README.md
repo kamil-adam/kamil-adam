@@ -4,9 +4,9 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamil-adam)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamil-adam&langs_count=9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=writeonly&repo=writeonly.github.io)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 <!--
 **kamil-adam/kamil-adam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
